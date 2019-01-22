@@ -12,7 +12,7 @@ public class DemoApplication {
 	}
 	@RequestMapping("/test")
 	public String hello() {
-		return "Hello 4";
+		return "Hello 4=1";
 	}
 }
 
